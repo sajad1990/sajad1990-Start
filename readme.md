@@ -1,5 +1,3 @@
-# Lab README
-Welcome to your first lab. There are no changes needed in order to run the lab - it will serve as a guide to both Java code and navigating the IDE (your code editor) and test cases.
 
 ## Java code
 If you look within the src/main/java folder, you will find two informative Java classes, Guide.java and GuideMain.java. These files have some code with some informational comments about the general structure of Java. No changes need to be made to these files. It is OK to not understand all the information, as the concepts will all be involved in future labs.
